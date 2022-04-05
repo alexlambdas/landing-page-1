@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/landing-page-1/static/css/main.b22b27fb.css",
+    "main.js": "/landing-page-1/static/js/main.ad8da979.js",
+    "static/media/OpenSans-Regular.ttf": "/landing-page-1/static/media/OpenSans-Regular.ca49d2b01cf4405e2c90.ttf",
+    "static/media/HammersmithOne-Regular.ttf": "/landing-page-1/static/media/HammersmithOne-Regular.e6f8b2906b5856aebe23.ttf",
+    "static/media/smartphone.png": "/landing-page-1/static/media/smartphone.96df855cda6f4ee9fcdb.png",
+    "static/media/smartphone-3916548.png": "/landing-page-1/static/media/smartphone-3916548.3a1608b6820daf184ad9.png",
+    "static/media/001-avatar.png": "/landing-page-1/static/media/001-avatar.4e0c76469d7f1dec7c4a.png",
+    "static/media/salesforce-ar21.svg": "/landing-page-1/static/media/salesforce-ar21.62a0c419cbed5775f430d488853f8188.svg",
+    "static/media/slack-ar21.svg": "/landing-page-1/static/media/slack-ar21.d073b45de5249655e929c76be60ddb0e.svg",
+    "static/media/instacart-ar21.svg": "/landing-page-1/static/media/instacart-ar21.1cac26648b9f23cdc2e81c1b8e08e115.svg",
+    "static/media/016-clock.svg": "/landing-page-1/static/media/016-clock.5f637016d461a234cc7a38b138b534a1.svg",
+    "static/media/amazon-ar21.svg": "/landing-page-1/static/media/amazon-ar21.2082e8090c92b1749c9de1f1cd68d696.svg",
+    "static/media/002-folder.svg": "/landing-page-1/static/media/002-folder.f44e71ca56077e9effc43e24fee08ae2.svg",
+    "static/media/006-sticky_notes.svg": "/landing-page-1/static/media/006-sticky_notes.dc05d0b3f5fcd88da060f0b89a16798b.svg",
+    "static/media/shopify-ar21.svg": "/landing-page-1/static/media/shopify-ar21.daeefaecad7e2084f7ecd955232543e3.svg",
+    "static/media/041-agenda.svg": "/landing-page-1/static/media/041-agenda.2a293b7949fd777c8f0f84188afa1d34.svg",
+    "static/media/skype-ar21.svg": "/landing-page-1/static/media/skype-ar21.bd650049226cba3146c63949e96fba91.svg",
+    "static/media/zoomus-ar21.svg": "/landing-page-1/static/media/zoomus-ar21.081f7d5690ea73356eb09f86b65bad4a.svg",
+    "static/media/google-ar21.svg": "/landing-page-1/static/media/google-ar21.3ee6be4dbed555df7bbb4e311cf57333.svg",
+    "index.html": "/landing-page-1/index.html",
+    "main.b22b27fb.css.map": "/landing-page-1/static/css/main.b22b27fb.css.map",
+    "main.ad8da979.js.map": "/landing-page-1/static/js/main.ad8da979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b22b27fb.css",
+    "static/js/main.ad8da979.js"
+  ]
+}
