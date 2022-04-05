@@ -1,0 +1,5 @@
+.header_PolygonLeftToRight {
+    z-index: -5;
+    clip-path: polygon(0 0, 0 100%, 100% 80%, 100% 0);
+    background-image: linear-gradient(to right top, #ba68c8, #cb60bf, #db58b4, #e950a6, #f44897, #f8418d, #fb3b82, #fd3577, #fb2c6f, #f92267, #f7155f, #f50057);
+}

@@ -1,0 +1,29 @@
+.sideNav_Item:hover {
+    background-color: #d1c4e9;
+}
+
+.sideNav_Item_Text {
+    font-family: "OpenSans_Regular";
+}
+
+.nav_rightItem {
+    font-family: "OpenSans_Regular";
+    font-size: 14px;
+}
+
+.nav_rightItem:hover {
+    border-bottom: 1px solid white;
+    transition: 0.7s;
+}
+
+.sideNav_navBar_Item_Link:hover {
+    background-color: #d1c4e9;
+}
+
+.sideNav_navBar_Item_Text {
+    font-family: "OpenSans_Regular";
+}
+
+.sideNavProfile_text {
+    font-family: "OpenSans_Regular";
+}
